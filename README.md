@@ -248,15 +248,6 @@ Provides a consolidated fraud risk overview including:
 • Risk Level
 • Top Risk Merchant
 ```
----
-
-# Resume Bullets
-
-* Built a Financial Risk & Fraud Intelligence Copilot using Java 17, Spring Boot, Kafka, PostgreSQL, Spring AI, Ollama, and Qwen to automate fraud risk analysis and reporting.
-* Developed Kafka-based transaction ingestion and persistence workflows with validation, duplicate protection, and real-time event processing.
-* Implemented scheduled fraud risk aggregation to calculate transaction failure rates, high-risk activity trends, merchant concentration metrics, and overall risk scores.
-* Integrated local AI models through Spring AI and Ollama to generate executive fraud summaries, business impact analysis, and recommended actions.
-* Implemented a lightweight Retrieval-Augmented Generation (RAG) workflow by incorporating historical fraud reports into AI prompts to improve context-aware risk assessments.
 
 ---
 
